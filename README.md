@@ -38,9 +38,11 @@ This project utilizes the MIT license
 ## Contributing:
 Not actively seeking contribution
 ## Tests:
-n/a
+Repository: https://github.com/RotichD/generate-readme
+Demo Video: https://www.youtube.com/watch?v=T6eiFJ9lTOI
 ## Questions:
 My GitHub Profile: [https://github.com/RotichD](https://github.com/RotichD)
 For further questions contact me at n/a
+
 
 ![screenshot](./images/screenshot.jpg)
