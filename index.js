@@ -105,7 +105,7 @@ const generateMarkDown = data =>{
 }
 
 const createReadMe = data =>{
-    fs.writeFile('README.md', data, (err) => {
+    fs.writeFile('./generated/README.md', data, (err) => {
         if (err) throw err;
         console.log('The file has been saved!');
       });
